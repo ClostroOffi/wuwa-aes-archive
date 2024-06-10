@@ -3,12 +3,10 @@
 A collection of main + dynamic AES Keys and GUIDs for Fortnite PAKs.
 ___
 
-### [Latest Key]
-
 | Version |                                Key                                 |
 |:-------:|:------------------------------------------------------------------:|
-|  1.0  | 0x0A53D5662D921BD11B6842C892F53317A675120E6DBB746493C2BA9429FEFF45 |
-
+|  1.0  | Main Key : 0xE0D4C0AA387A268B29C397E3C0CAD934522EFC96BE5526D6288EA26351CDACC9 |
+|        | pakchunk5 : 0xE8F50588DEDAE3C5158E78FA7349A2C1E09CEC20B4A0FA4B2CF82C0ADDEFE2EA | 
 ___
 
 If you find an undocumented / unknown AES key, PAK, or GUID: feel free to open a pull request. If you have any
