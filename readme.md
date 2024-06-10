@@ -1,6 +1,6 @@
 # Wuthering Waves AES Archive
 
-A collection of main + dynamic AES Keys and GUIDs for Wuthering Waves PAKs.
+A collection of AES Keys for Wuthering Waves PAKs.
 ___
 
 | Version |                                Key                                 |
