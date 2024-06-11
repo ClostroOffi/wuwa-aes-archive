@@ -3,7 +3,7 @@
 A collection of AES Keys for Wuthering Waves PAKs.
 ___
 
-| Version |                                Main Key                                 |                                pakchunk-5 Key                                 |
+| Version |                                Main Key                                 |
 |:-------:|:------------------------------------------------------------------:|
 |  0.8.0 (CBT1)  | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | |
 |    | pakchunk-5: 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 |
