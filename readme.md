@@ -4,6 +4,8 @@ A collection of AES Keys for Wuthering Waves PAKs.
 
 Unreal Engine version : 4.26
 
+If you find this repo useful, please consider [making a donation on PayPal](https://www.paypal.com/paypalme/ClostroLeRigolo)
+
 ___
 
 | Version |                                Main Key                                 |
