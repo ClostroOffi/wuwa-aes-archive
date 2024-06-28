@@ -18,9 +18,10 @@ ___
 |        | pakchunk-5: 0xE8F50588DEDAE3C5158E78FA7349A2C1E09CEC20B4A0FA4B2CF82C0ADDEFE2EA |
 |  1.1 (Beta)  | Main Key: 0x47445D63F10E5EB004B8D3352A58C3E8444E1F7D1907A442D204161C71C567DC |
 |  1.1  | Main Key: 0x43C51CC2369B9DD195EDCF426C78E30E99D7514DC14E8C03A831E128A3941010 |
+|        | pakchunk-5: 0x52B3F2003A28C3145C98866BEECC3F884051140E03CC42946A89DB126AD55E9C |
 ___
 Special Thanks : 
-- [RealNath](https://github.com/RealNath) (1.1 Release AES Key)
+- [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
