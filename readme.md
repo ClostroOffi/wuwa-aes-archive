@@ -19,6 +19,9 @@ ___
 |  1.1 (Beta)  | Main Key: 0x47445D63F10E5EB004B8D3352A58C3E8444E1F7D1907A442D204161C71C567DC |
 |  1.1  | Main Key: 0x43C51CC2369B9DD195EDCF426C78E30E99D7514DC14E8C03A831E128A3941010 |
 ___
+Special Thanks : 
+- [RealNath](https://github.com/RealNath) (1.1 Release AES Key)
 
+___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
 questions, feel free to open an issue.
