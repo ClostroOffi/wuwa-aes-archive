@@ -24,6 +24,7 @@ ___
 ___
 Special Thanks : 
 - [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
+- [Hoririya](https://github.com/Hororiya) (1.2 PTR Main AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
