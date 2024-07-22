@@ -11,6 +11,7 @@ ___
 | Version |                                Main Key                                 |
 |:-------:|:------------------------------------------------------------------:|
 |  0.1.0 (DEVBUILD)  | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | |
+|  0.7.0 | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | |
 |  0.8.0 (CBT1)  | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | |
 |    | pakchunk-5: 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 |
 |  0.9.0 (CBT2)  | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F |
@@ -25,6 +26,7 @@ ___
 Special Thanks : 
 - [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
 - [Hoririya](https://github.com/Hororiya) (1.2 PTR Main AES Key)
+- [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
