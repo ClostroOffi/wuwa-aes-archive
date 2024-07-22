@@ -24,9 +24,9 @@ ___
 |  1.2 (Beta)  | Main Key: 0x354723FA77DC52B9080B8B7518BE1FF6E8D12D7BE56F4050C5B472E0C6E90A70 |
 ___
 Special Thanks : 
+- [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
 - [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
 - [Hoririya](https://github.com/Hororiya) (1.2 PTR Main AES Key)
-- [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
