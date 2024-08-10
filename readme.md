@@ -6,7 +6,7 @@ Unreal Engine version : 4.26
 
 ___
 
-| Version |                                Main Key                                 |
+| Version |                                AES Keys                                 |
 |:-------:|:------------------------------------------------------------------:|
 |  0.1.0 (DEVBUILD)  | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | |
 |  0.7.0 | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | |
