@@ -27,7 +27,7 @@ Special Thanks :
 - [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
 - [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
 - [Hoririya](https://github.com/Hororiya) (1.2 PTR Main AES Key)
-- [Xavo95](https://github.com/xavo95) & Ranny (0.9.0 [CBT2] pakchunk-5 AES Key)
+- [Xavo95](https://github.com/xavo95) & [Ranny](https://github.com/Rannytheory) (0.9.0 [CBT2] pakchunk-5 AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
