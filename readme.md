@@ -21,7 +21,7 @@ ___
 |        | pakchunk-5: 0x52B3F2003A28C3145C98866BEECC3F884051140E03CC42946A89DB126AD55E9C |
 |  1.2 (Beta)  | Main Key: 0x354723FA77DC52B9080B8B7518BE1FF6E8D12D7BE56F4050C5B472E0C6E90A70 |
 |  1.2  | Main Key: 0x4D65747EDEB74A1DE116B1DD147CF79CD6C082F0DB7908E1BBD37F0428426469 |
-|        | pakchunk-5: TBD |
+|        | pakchunk-5: 0xB8B2D6B3DE6DA30113D7139BA95BD62E5E91EEAAAA3EBA7F7CD8261EEAA7F992 |
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
@@ -29,6 +29,7 @@ Special Thanks :
 - [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
 - [Hoririya](https://github.com/Hororiya) (1.2 PTR Main AES Key)
 - [Ranny](https://github.com/Rannytheory) (1.2 Main AES Key)
+- [Xavo95](https://github.com/xavo95) (1.2 pakchunk-5 AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
