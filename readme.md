@@ -6,11 +6,11 @@ Unreal Engine version : 4.26
 
 ___
 
-| Version |                                AES Keys                                 |
-|:-------:|:------------------------------------------------------------------:|
-|  0.1.0 (DEVBUILD)  | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | |
+| Version | OS | Type |                                AES Keys                                 |
+|:-------:|:--:|:----:|:-----------------------------------------------------------------------:|
+|  0.1.0 | Windows | (DEVBUILD)  | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 |
 |  0.7.0 | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | |
-|  0.8.0 (CBT1)  | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | |
+|  0.8.0 (CBT1)  | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F |
 |    | pakchunk-5: 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 |
 |  0.9.0 (CBT2)  | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F |
 |    | pakchunk-5: 0xF0ABFF9E59F0A1C5723AA146CBC190B641E5528E18F2AF1AA364A741E80E3EC8 |
