@@ -46,7 +46,7 @@ Special Thanks :
 - [Ranny](https://github.com/Rannytheory) (1.2 Main AES Key)
 - [Xavo95](https://github.com/xavo95) (1.2 pakchunk-5 AES Key)
 - [Xavo95](https://github.com/xavo95) (CN pakchunk-5 AES Keys)
-- [Xavo95](https://github.com/xavo95) (Windows, CN Main + pakchunk-5 AES Keys, iOS & Android pakchunk-5 AES Keys)
+- [Xavo95](https://github.com/xavo95) (Windows CN Main + pakchunk-5 AES Keys, iOS & Android pakchunk-5 AES Keys)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
