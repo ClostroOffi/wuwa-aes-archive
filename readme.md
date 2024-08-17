@@ -9,7 +9,7 @@ ___
 | Version | OS | Build | Server |                                AES Keys                                 | Status |
 |:-------:|:--:|:----:|:-------:|:----------------------------------------------------------------------:|:------:|
 | 0.1.0 | Windows | Development Build | CN | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | Functional |
-| 0.7.0 | Windows | Pre-CBT1 Buimd | N/A | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | Functional |
+| 0.7.0 | Windows | Pre-CBT1 Build | N/A | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | Functional |
 | 0.8.0 | Windows | CBT1 (Closed Beta Test) Build | N/A | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Functional |
 | 0.8.0 | Windows | CBT1 (Closed Beta Test) Build | N/A | pakchunk-5: 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 | Functional |
 | 0.9.0 | Windows | CBT2 (Closed Beta Test) Build | N/A | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Functional |
