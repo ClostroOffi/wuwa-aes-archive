@@ -38,6 +38,7 @@ ___
 | 1.2 | Android | Release Build | CN | pakchunk-5 : 0xE8A45AF0BB37E139C328309340E0958292A8A07007FE7E3A771AA8D74099F5D6 | Untested |
 | 1.2 | iOS | Release Build | CN | pakchunk-5 : 0x6651BB4632FE9D8FC5B78BF8F41DB0DF4EFFB338C127434CD093D6AA368050E3 | Untested |
 | 1.3 | Windows | Beta Build | CN | Main Key: 0x63B32F1F0DFB84CD4763EA5BC430D305AFDF126774CC3CCDB6CE0CEF3115256F | Functional |
+| 1.3 | Windows | Release Build | Global | Main Key: 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | Functional |
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
