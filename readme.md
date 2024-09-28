@@ -39,6 +39,7 @@ ___
 | 1.2 | iOS | Release Build | CN | pakchunk-5 : 0x6651BB4632FE9D8FC5B78BF8F41DB0DF4EFFB338C127434CD093D6AA368050E3 | Untested |
 | 1.3 | Windows | Beta Build | CN | Main Key: 0x63B32F1F0DFB84CD4763EA5BC430D305AFDF126774CC3CCDB6CE0CEF3115256F | Functional |
 | 1.3 | Windows | Release Build | Global | Main Key: 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | Functional |
+| 1.3 | Windows | Release Build | Global | pakchunk-5 : 0xBDA94387C9E7F157CE31B25144A2DF54E3A1BF011A69E86485470D4132F23BC0 | Functional |
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
