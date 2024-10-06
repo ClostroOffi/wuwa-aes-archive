@@ -46,7 +46,7 @@ Special Thanks :
 - [Xavo95](https://github.com/xavo95) & [Ranny](https://github.com/Rannytheory) (0.9.0 [CBT2] pakchunk-5 AES Key)
 - [RealNath](https://github.com/RealNath) (1.1 Release Main AES Key)
 - [Hoririya](https://github.com/Hororiya) (1.2 PTR Main AES Key)
-- [Ranny](https://github.com/Rannytheory) (1.2 Main AES Key)
+- [Ranny](https://github.com/Rannytheory) (0.10.0 & 1.2 Main AES Key)
 - [Xavo95](https://github.com/xavo95) (1.2 pakchunk-5 AES Key)
 - [Xavo95](https://github.com/xavo95) (CN pakchunk-5 AES Keys)
 - [Xavo95](https://github.com/xavo95) (Windows CN Main + pakchunk-5 AES Keys, iOS & Android pakchunk-5 AES Keys)
