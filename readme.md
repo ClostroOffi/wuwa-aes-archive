@@ -8,12 +8,13 @@ ___
 
 | Version | OS | Build | Server |                                AES Keys                                 | Status |
 |:-------:|:--:|:----:|:-------:|:----------------------------------------------------------------------:|:------:|
-| 0.1.0 | Windows | Development Build | CN | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | Functional |
-| 0.7.0 | Windows | Pre-CBT1 Build | N/A | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | Functional |
-| 0.8.0 | Windows | CBT1 (Closed Beta Test) Build | N/A | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Functional |
-| 0.8.0 | Windows | CBT1 (Closed Beta Test) Build | N/A | pakchunk-5: 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 | Functional |
+| 0.1.0 | Windows | Technical Test Build | CN | Main Key: 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | Functional |
+| 0.7.0 | Windows | CBT1 (Closed Beta Test) Build | N/A | Main Key: 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | Functional |
+| 0.8.0 | Windows | pre-CBT2 (NDA Test) Build | N/A | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Functional |
+| 0.8.0 | Windows | pre-CBT2 (NDA Test) Build | N/A | pakchunk-5: 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 | Functional |
 | 0.9.0 | Windows | CBT2 (Closed Beta Test) Build | N/A | Main Key: 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Functional |
 | 0.9.0 | Windows | CBT2 (Closed Beta Test) Build | N/A | pakchunk-5: 0xF0ABFF9E59F0A1C5723AA146CBC190B641E5528E18F2AF1AA364A741E80E3EC8 | Functional |
+| 0.10.0 | Windows | Localization Prerelease Test Build | N/A | Main Key: TBD | TBD |
 | 1.0 | Windows, Android, iOS | Release Build | Global & CN | Main Key: 0xE0D4C0AA387A268B29C397E3C0CAD934522EFC96BE5526D6288EA26351CDACC9 | Functional |
 | 1.0 | Windows | Release Build | Global | pakchunk-5 : 0xE8F50588DEDAE3C5158E78FA7349A2C1E09CEC20B4A0FA4B2CF82C0ADDEFE2EA | Functional |
 | 1.0 | Android | Release Build | Global | pakchunk-5 : 0x3BE656CDF13186E14E15E2A088FDB6D888DF8890501305F882B6751D655BC91D | Untested |
@@ -50,7 +51,7 @@ Special Thanks :
 - [Xavo95](https://github.com/xavo95) (1.2 pakchunk-5 AES Key)
 - [Xavo95](https://github.com/xavo95) (CN pakchunk-5 AES Keys)
 - [Xavo95](https://github.com/xavo95) (Windows CN Main + pakchunk-5 AES Keys, iOS & Android pakchunk-5 AES Keys)
-- 
+- [xeondev](https://github.com/thexeondev) (Error correction in versions naming)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
