@@ -39,7 +39,8 @@ ___
 | 1.3 | iOS & iPad OS | Release Build | OS | 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | TBD | Untested
 | 1.3 | Windows | Release Build | CN | 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | TBD | Functional |
 | 1.3 | Android | Release Build | CN | 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | TBD | Untested |
-| 1.3 | iOS & iPad OS | Release Build | CN | 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | TBD | Untested
+| 1.3 | iOS & iPad OS | Release Build | CN | 0x0B3915926D75EC12C602DB59000FC1F8AD5BA45D3A6A5B1675E4B7B54E703684 | TBD | Untested |
+| 1.4 | Windows | Beta Build | CN | 0xF031394DB4776A6DF94A04DA25774655406C4A6C6941C3788FB51C2D423206C2 | None | Functional |
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
@@ -51,6 +52,7 @@ Special Thanks :
 - [Xavo95](https://github.com/xavo95) (CN pakchunk-5 AES Keys)
 - [Xavo95](https://github.com/xavo95) (Windows CN Main + pakchunk-5 AES Keys, iOS & Android pakchunk-5 AES Keys)
 - [xeondev](https://github.com/thexeondev) (Error correction in versions naming)
+- niarniik (1.4 CN Beta Main AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
