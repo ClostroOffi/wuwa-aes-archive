@@ -48,6 +48,7 @@ ___
 | 1.4 | Windows | Release Build | CN | 0x8CE9D7D7635F1CB0DAD9574B03A6396F97E94BE07A42D014933D2A9014D057AD | 0xC96DA30967D1BC3361987897BDBACC12CA9578253115E28FD59E559281C10F6A | Functional |
 | 1.4 | Android | Release Build | CN | 0x8CE9D7D7635F1CB0DAD9574B03A6396F97E94BE07A42D014933D2A9014D057AD | 0x0B3F25116D611BE60B39114D1B69B73A5CE53BD0F61847B6AEFA4E2AE477FA0A | Functional |
 | 1.4 | iOS & iPad OS | Release Build | CN | 0x8CE9D7D7635F1CB0DAD9574B03A6396F97E94BE07A42D014933D2A9014D057AD | 0xE715CE95B79B1178DD0C72FEDC71CAAE2EE299F5320CF1FFDE3410A52DC9AD0E | Functional |
+| 2.0 | Windows | Beta Build | CN | 0x78A5C54F4D4A838C6E82D46E5B219E239A52C86D7519BF3D3BA90AA1FFF66A2F | None | Functional |
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92) (0.7.0 Main AES Key)
@@ -61,6 +62,7 @@ Special Thanks :
 - [Xavo95](https://github.com/xavo95) (1.4 Main AES Key)
 - [xeondev](https://github.com/thexeondev) (Error correction in versions naming)
 - niarniik (1.4 CN Beta Main AES Key)
+- [supdrewin](https://github.com/supdrewin) (2.0 PTR Main AES Key)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
