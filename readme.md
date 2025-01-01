@@ -8,44 +8,44 @@ ___
 
 ## 0.1.0 (Technical Test)
 
-| PAK(s) | AES Key                                                                |
-|:------:|------------------------------------------------------------------------|
-|  Main  | 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 |
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|  Main  | 0x773630F7D0C0516311D0598C538EB94AABAD423208F3633A98E34513557DE2C5 | Windows | CN |
 
 ## 0.7.0 (1st Close Beta Test)
 
-| PAK(s) | AES Key                                                                |
-|:------:|------------------------------------------------------------------------|
-|   Main   | 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 |
-| pakchunk-5 | 0x459071172548DB9F5E29E3E0D67E49DB4E5CE9AE4E784F3CD49EAB67C718BE3F |
-| pakchunk-5 (try this key if the above one doesn't work) | 0x0873e8982256b4994a0fe8a5ec2756d204d105a24be0ddd3ece252880e94ef19 |
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x3CD6493EFB7AE59DC3452D0F9CFF44D2CAD4BDC1FBA00DF7CC4FA4707A81AD75 | Windows | CN & OS |
+| pakchunk-5 | 0x459071172548DB9F5E29E3E0D67E49DB4E5CE9AE4E784F3CD49EAB67C718BE3F | Windows | CN & OS |
+| pakchunk-5 (try this key if the above one doesn't work) | 0x0873e8982256b4994a0fe8a5ec2756d204d105a24be0ddd3ece252880e94ef19 | Windows | CN & OS |
 
 ## 0.8.0 (NDA Test Build)
 
-| PAK(s) | AES Key                                                                |
-|:------:|------------------------------------------------------------------------|
-|   Main   | 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F |
-| pakchunk-5 | TBD |
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Windows | CN & OS |
+| pakchunk-5 | TBD | Windows | CN |
 
 ## 0.8.2 (NDA Test Build)
 
-| PAK(s) | AES Key                                                                |
-|:------:|------------------------------------------------------------------------|
-|   Main   | 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F |
-| pakchunk-5 | 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 |
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Windows | CN & OS |
+| pakchunk-5 | 0xAEA4CBC6E1B6CCCD49F2426087AFDDC1F84662B45019BB6CBFFD62F470AFCDD5 | Windows | CN & OS |
 
 ## 0.9.0 (2nd Close Beta Test)
 
 | PAK(s) | AES Key                                                                | Operating System |
 |:------:|------------------------------------------------------------------------|------------------|
-|   Main   | 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Windows |
-| pakchunk-5 | 0xF0ABFF9E59F0A1C5723AA146CBC190B641E5528E18F2AF1AA364A741E80E3EC8 | Windows |
+|   Main   | 0xF259C330E6B308BF34086CF30013241A1277F6E25D8F580746C2E8829EA1E15F | Windows | CN & OS |
+| pakchunk-5 | 0xF0ABFF9E59F0A1C5723AA146CBC190B641E5528E18F2AF1AA364A741E80E3EC8 | Windows | CN & OS |
 
 ## 0.10.0 (Localization Pre-release Test Build)
 
-| PAK(s) | AES Key                                                                | Operating System |
-|:------:|------------------------------------------------------------------------|------------------|
-|   Main   | 0xE0D4C0AA387A268B29C397E3C0CAD934522EFC96BE5526D6288EA26351CDACC9 | Windows |
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0xE0D4C0AA387A268B29C397E3C0CAD934522EFC96BE5526D6288EA26351CDACC9 | Windows | CN |
 
 ## 1.0 (WAKING OF A WORLD)
 
