@@ -191,6 +191,35 @@ ___
 | pakchunk-27 | TBD | iOS & iPad OS | CN |
 | pakchunk-28 | TBD  | iOS & iPad OS | CN |
 
+## 2.1 (WAVES SING, AND THE CERULEAN BIRD CALLS)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x4621F487C1245496EFC72E545ABED1121EA588A83993287C36C211FFA47865A3 | Windows | OS |
+| pakchunk-26 | 0x3477391A714D294037AD3E8BE1A45DB69603CE0EC4DEA854A2CD15371926C18B | Windows | OS |
+| pakchunk-27 | 0x3D863EE397B7CC2418FA5CB402EC76AAD6640870467A9E3EE9F547A7349596F7 | Windows | OS |
+| pakchunk-28 | 0xA0F07586DE0C4440404C8B4CAE5832B8102F56315DE8114AAE56CE0D1E6A1FBD  | Windows | OS |
+|   Main   | 0x4621F487C1245496EFC72E545ABED1121EA588A83993287C36C211FFA47865A3 | Android | OS |
+| pakchunk-26 | TBD | Android | OS |
+| pakchunk-27 | TBD | Android | OS |
+| pakchunk-28 | TBD  | Android | OS |
+|   Main   | 0x4621F487C1245496EFC72E545ABED1121EA588A83993287C36C211FFA47865A3 | iOS & iPad OS | OS |
+| pakchunk-26 | TBD | iOS & iPad OS | OS |
+| pakchunk-27 | TBD | iOS & iPad OS | OS |
+| pakchunk-28 | TBD  | iOS & iPad OS | OS |
+|   Main   | 0x4621F487C1245496EFC72E545ABED1121EA588A83993287C36C211FFA47865A3 | Windows | CN |
+| pakchunk-26 | 0x007F8D8DBE4C38D6A4DF985DA4A52B76945468ED66E3ED979CB512554CF7414B | Windows | CN |
+| pakchunk-27 | 0x0F5166336BAEA786EE6387C7F88210394E703745DE7810AADCE34D04BD5AC045 | Windows | CN |
+| pakchunk-28 | 0x8C91D15C070DE55A141D1527DA5FF1B24A96D996D476C167A7F3534BAEF06F28  | Windows | CN |
+|   Main   | 0x4621F487C1245496EFC72E545ABED1121EA588A83993287C36C211FFA47865A3 | Android | CN |
+| pakchunk-26 | TBD | Android | CN |
+| pakchunk-27 | TBD | Android | CN |
+| pakchunk-28 | TBD  | Android | CN |
+|   Main   | 0x4621F487C1245496EFC72E545ABED1121EA588A83993287C36C211FFA47865A3 | iOS & iPad OS | CN |
+| pakchunk-26 | TBD | iOS & iPad OS | CN |
+| pakchunk-27 | TBD | iOS & iPad OS | CN |
+| pakchunk-28 | TBD  | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
