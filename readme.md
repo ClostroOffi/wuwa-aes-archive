@@ -191,6 +191,12 @@ ___
 | pakchunk-27 | TBD | iOS & iPad OS | CN |
 | pakchunk-28 | TBD  | iOS & iPad OS | CN |
 
+## 2.1 (WAVES SING, AND THE CERULEAN BIRD CALLS) (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x97F86A1F10229E1D55DB4C968ECF769C7F9A1B65998D4DE56F4B5C20BD3DDB66 | Windows | CN |
+
 ## 2.1 (WAVES SING, AND THE CERULEAN BIRD CALLS)
 
 | PAK(s) | AES Key                                                                | Operating System | Server |
