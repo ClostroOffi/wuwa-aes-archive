@@ -226,6 +226,12 @@ ___
 | pakchunk-27 | TBD | iOS & iPad OS | CN |
 | pakchunk-28 | TBD  | iOS & iPad OS | CN |
 
+## 2.2 (UNKNOWN) (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0xE07E2CDE98101D2486B9601A2E120D4F9FEB1632EBD6F3F205CFE80C608A5A12 | Windows | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
