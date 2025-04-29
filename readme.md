@@ -267,6 +267,12 @@ ___
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x0F5CF9D7803990D9658E3308D52CEB04E9779A91E84A96CD0E80B16C29A16C3C | Windows | CN |
 
+## 2.3 (FIERY ARPEGGIO OF SUMMER REUNION)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | Windows | OS |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
