@@ -272,6 +272,30 @@ ___
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | Windows | OS |
+| pakchunk-26 | 0x8F940F715382299A83A3B52C90DBCA195CB03C84633F6858734BD82AF811DCF3 | Windows | OS |
+| pakchunk-27 | 0x5EAD40CBC743B5E577DF4190DC2FDCD65EBD4EC3EEBD7CF0106C6E7E427637E2 | Windows | OS |
+| pakchunk-28 | 0x05F02E7D65D9F6F593C85D7A493D6D5C009E4C852FDE97CBE014397841470867  | Windows | OS |
+|   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | Android | OS |
+| pakchunk-26 | TBD | Android | OS |
+| pakchunk-27 | TBD | Android | OS |
+| pakchunk-28 | TBD  | Android | OS |
+|   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | iOS & iPad OS | OS |
+| pakchunk-26 | TBD | iOS & iPad OS | OS |
+| pakchunk-27 | TBD | iOS & iPad OS | OS |
+| pakchunk-28 | TBD  | iOS & iPad OS | OS |
+|   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | Windows | CN |
+| pakchunk-26 | 0x7AAE14941D774CA5DE4B9E5836D043A85D3040905A0947E04E41D6ECCFC18629 | Windows | CN |
+| pakchunk-27 | 0x2F5455EE08F998715C698CA6DE58C50DA75D26B2B49439251009D0CD326674B7 | Windows | CN |
+| pakchunk-28 | 0xF194271656945FAE7572ABD69700FE54B991489C550048933EEF63B4041C63A1  | Windows | CN |
+|   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | Android | CN |
+| pakchunk-26 | TBD | Android | CN |
+| pakchunk-27 | TBD | Android | CN |
+| pakchunk-28 | TBD  | Android | CN |
+|   Main   | 0x0C4C69EC564AC6679DCC167B87AB5AC58AC8795C37D2A48A4B9111F990298D83 | iOS & iPad OS | CN |
+| pakchunk-26 | TBD | iOS & iPad OS | CN |
+| pakchunk-27 | TBD | iOS & iPad OS | CN |
+| pakchunk-28 | TBD  | iOS & iPad OS | CN |
+
 
 ___
 Special Thanks : 
