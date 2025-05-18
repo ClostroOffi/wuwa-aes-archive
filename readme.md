@@ -296,6 +296,11 @@ ___
 | pakchunk-27 | TBD | iOS & iPad OS | CN |
 | pakchunk-28 | TBD  | iOS & iPad OS | CN |
 
+# 2.4 (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x7AA624C7CA63A4116129CECC5BD25C117404940AE6CBCBFD071D11F9DCF64A86 | Windows | CN |
 
 ___
 Special Thanks : 
