@@ -302,6 +302,35 @@ ___
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x7AA624C7CA63A4116129CECC5BD25C117404940AE6CBCBFD071D11F9DCF64A86 | Windows | CN |
 
+## 2.4 (LIGHTLY WE TOSS THE CROWN)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Windows | OS |
+| pakchunk-26 | TBD | Windows | OS |
+| pakchunk-27 | TBD | Windows | OS |
+| pakchunk-28 | TBD  | Windows | OS |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Android | OS |
+| pakchunk-26 | TBD | Android | OS |
+| pakchunk-27 | TBD | Android | OS |
+| pakchunk-28 | TBD  | Android | OS |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | iOS & iPad OS | OS |
+| pakchunk-26 | TBD | iOS & iPad OS | OS |
+| pakchunk-27 | TBD | iOS & iPad OS | OS |
+| pakchunk-28 | TBD  | iOS & iPad OS | OS |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Windows | CN |
+| pakchunk-26 | TBD | Windows | CN |
+| pakchunk-27 | TBD | Windows | CN |
+| pakchunk-28 | TBD  | Windows | CN |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Android | CN |
+| pakchunk-26 | TBD | Android | CN |
+| pakchunk-27 | TBD | Android | CN |
+| pakchunk-28 | TBD  | Android | CN |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | iOS & iPad OS | CN |
+| pakchunk-26 | TBD | iOS & iPad OS | CN |
+| pakchunk-27 | TBD | iOS & iPad OS | CN |
+| pakchunk-28 | TBD  | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
