@@ -307,9 +307,9 @@ ___
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Windows | OS |
-| pakchunk-26 | TBD | Windows | OS |
-| pakchunk-27 | TBD | Windows | OS |
-| pakchunk-28 | TBD  | Windows | OS |
+| pakchunk-26 | 0xF28D0A97C6D93747F666D891BCD0B700FB5DAFCA36E26D133729D264443D779B | Windows | OS |
+| pakchunk-27 | 0x50FAC6039ED3FAD7AC5C3695AF2D6B73B5F9CB7DDCDA040558EA95852BB91DEF | Windows | OS |
+| pakchunk-28 | 0xA970B047B9B31F96C9A047AD8F283A052CEA8E05AB3F8B6A8295A083012E5973  | Windows | OS |
 |   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Android | OS |
 | pakchunk-26 | TBD | Android | OS |
 | pakchunk-27 | TBD | Android | OS |
@@ -319,9 +319,9 @@ ___
 | pakchunk-27 | TBD | iOS & iPad OS | OS |
 | pakchunk-28 | TBD  | iOS & iPad OS | OS |
 |   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Windows | CN |
-| pakchunk-26 | TBD | Windows | CN |
-| pakchunk-27 | TBD | Windows | CN |
-| pakchunk-28 | TBD  | Windows | CN |
+| pakchunk-26 | 0x451EE1D306D3D89827C81B6E607224C805AB0EDF4F460FF6CCC6668A97850326 | Windows | CN |
+| pakchunk-27 | 0xC7BD75012FAB392DA27F0D3296C168739DC3468A7D35A5CD55BB8F38F8BB3628 | Windows | CN |
+| pakchunk-28 | 0x3E1B9E8C6F12231CF09F1F3EF866392D4112B8D8206AF566C15434B27DD9E27A  | Windows | CN |
 |   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Android | CN |
 | pakchunk-26 | TBD | Android | CN |
 | pakchunk-27 | TBD | Android | CN |
