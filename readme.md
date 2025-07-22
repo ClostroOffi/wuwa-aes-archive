@@ -337,6 +337,35 @@ ___
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0xBC3107B2DF1208248B8804A9C0E9E4C5B09A5FCFBE0A508A521FD023B5D4B033 | Windows | CN |
 
+## 2.5 (UNFADING MELODY OF LIFE)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | Windows | OS |
+| pakchunk-26 | TBD | Windows | OS |
+| pakchunk-27 | TBD | Windows | OS |
+| pakchunk-28 | TBD  | Windows | OS |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | Android | OS |
+| pakchunk-26 | TBD | Android | OS |
+| pakchunk-27 | TBD | Android | OS |
+| pakchunk-28 | TBD  | Android | OS |
+|   Main   | 0x5CBD87A3E0279349C31DC795C2C46F362D8357DC2C483F842C4666BE083EC93B | iOS & iPad OS | OS |
+| pakchunk-26 | TBD | iOS & iPad OS | OS |
+| pakchunk-27 | TBD | iOS & iPad OS | OS |
+| pakchunk-28 | TBD  | iOS & iPad OS | OS |
+|   Main   | TBD | Windows | CN |
+| pakchunk-26 | TBD | Windows | CN |
+| pakchunk-27 | TBD | Windows | CN |
+| pakchunk-28 | TBD  | Windows | CN |
+|   Main   | TBD | Android | CN |
+| pakchunk-26 | TBD | Android | CN |
+| pakchunk-27 | TBD | Android | CN |
+| pakchunk-28 | TBD  | Android | CN |
+|   Main   | TBD | iOS & iPad OS | CN |
+| pakchunk-26 | TBD | iOS & iPad OS | CN |
+| pakchunk-27 | TBD | iOS & iPad OS | CN |
+| pakchunk-28 | TBD  | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
