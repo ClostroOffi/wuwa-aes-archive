@@ -337,6 +337,47 @@ ___
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0xBC3107B2DF1208248B8804A9C0E9E4C5B09A5FCFBE0A508A521FD023B5D4B033 | Windows | CN |
 
+## 2.5 (UNFADING MELODY OF LIFE)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | Windows | OS |
+| pakchunk-26 | 0xB5C6CD900191479B598E6D0205482C1623C139D2EEBB238426A16A3CF014F9F6 | Windows | OS |
+| pakchunk-27 | 0x5861A0EA3189F555ACA3E114FDDBECA5E86971759383CB1A0CA4E2EB34FA393C | Windows | OS |
+| pakchunk-28 | 0x398AEA0B059A2C154879C936EE6D1102466751397719CDBB88112C5395DA9944  | Windows | OS |
+| pakchunk-29 | 0xD9C79493E0E7317DC9F2AED562CEEFA8EE47DD22531816668A11DFBA2210E8DB  | Windows | OS |
+| pakchunk-30 | TBD  | Windows | OS |
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | Android | OS |
+| pakchunk-26 | TBD | Android | OS |
+| pakchunk-27 | TBD | Android | OS |
+| pakchunk-28 | TBD  | Android | OS |
+| pakchunk-29 | TBD  | Android | OS |
+| pakchunk-30 | TBD  | Android | OS |
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | iOS & iPad OS | OS |
+| pakchunk-26 | TBD | iOS & iPad OS | OS |
+| pakchunk-27 | TBD | iOS & iPad OS | OS |
+| pakchunk-28 | TBD  | iOS & iPad OS | OS |
+| pakchunk-29 | TBD  | iOS & iPad OS | OS |
+| pakchunk-30 | TBD  | iOS & iPad OS | OS |
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | Windows | CN |
+| pakchunk-26 | 0xBACD9B8FC43951D1008CCC4BA086EDEADD7A2A3DA3289502A2961EC467FF3A2C | Windows | CN |
+| pakchunk-27 | 0x5B9189E8CBE804940537D7164BF9CFE1F4C4618AAD207C5136805B172B6B5E91 | Windows | CN |
+| pakchunk-28 | 0xF6C192E0A7E4D8DE9A26086FE7D2AB0C6232EFB2C963DD0C9491F47B75039EC7  | Windows | CN |
+| pakchunk-29 | 0xB6A6C740E3AD6ED04C5B9CD7780E1637EA0C6CFBA590E7F1C5E24C87189C91BD  | Windows | CN |
+| pakchunk-30 | TBD  | Windows | CN |
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | Android | CN |
+| pakchunk-26 | TBD | Android | CN |
+| pakchunk-27 | TBD | Android | CN |
+| pakchunk-28 | TBD  | Android | CN |
+| pakchunk-29 | TBD  | Android | CN |
+| pakchunk-30 | TBD  | Android | CN |
+|   Main   | 0x60B7775295118009999015A85D33599ED14D03F01ACA67FDE412665562D6E722 | iOS & iPad OS | CN |
+| pakchunk-26 | TBD | iOS & iPad OS | CN |
+| pakchunk-27 | TBD | iOS & iPad OS | CN |
+| pakchunk-28 | TBD  | iOS & iPad OS | CN |
+| pakchunk-29 | TBD  | iOS & iPad OS | CN |
+| pakchunk-30 | TBD  | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
