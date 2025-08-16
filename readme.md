@@ -378,6 +378,53 @@ ___
 | pakchunk-29 | TBD  | iOS & iPad OS | CN |
 | pakchunk-30 | TBD  | iOS & iPad OS | CN |
 
+## 2.6 (UNKNOWN) (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x7523A86AA874D919A9A8001E78DCA642E84A041A5CBCC63385FD2E41765011CD | Windows | CN |
+
+## 2.6 (BY SUN'S SCOURGE BY MOON'S REVOLUTION)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | TBD | Windows | OS |
+| pakchunk-26 | TBD | Windows | OS |
+| pakchunk-27 | TBD | Windows | OS |
+| pakchunk-28 | TBD  | Windows | OS |
+| pakchunk-29 | TBD  | Windows | OS |
+| pakchunk-30 | TBD  | Windows | OS |
+|   Main   | TBD | Android | OS |
+| pakchunk-26 | TBD | Android | OS |
+| pakchunk-27 | TBD | Android | OS |
+| pakchunk-28 | TBD  | Android | OS |
+| pakchunk-29 | TBD  | Android | OS |
+| pakchunk-30 | TBD  | Android | OS |
+|   Main   | TBD | iOS & iPad OS | OS |
+| pakchunk-26 | TBD | iOS & iPad OS | OS |
+| pakchunk-27 | TBD | iOS & iPad OS | OS |
+| pakchunk-28 | TBD  | iOS & iPad OS | OS |
+| pakchunk-29 | TBD  | iOS & iPad OS | OS |
+| pakchunk-30 | TBD  | iOS & iPad OS | OS |
+|   Main   | TBD | Windows | CN |
+| pakchunk-26 | TBD | Windows | CN |
+| pakchunk-27 | TBD | Windows | CN |
+| pakchunk-28 | TBD  | Windows | CN |
+| pakchunk-29 | TBD  | Windows | CN |
+| pakchunk-30 | TBD  | Windows | CN |
+|   Main   | TBD | Android | CN |
+| pakchunk-26 | TBD | Android | CN |
+| pakchunk-27 | TBD | Android | CN |
+| pakchunk-28 | TBD  | Android | CN |
+| pakchunk-29 | TBD  | Android | CN |
+| pakchunk-30 | TBD  | Android | CN |
+|   Main   | TBD | iOS & iPad OS | CN |
+| pakchunk-26 | TBD | iOS & iPad OS | CN |
+| pakchunk-27 | TBD | iOS & iPad OS | CN |
+| pakchunk-28 | TBD  | iOS & iPad OS | CN |
+| pakchunk-29 | TBD  | iOS & iPad OS | CN |
+| pakchunk-30 | TBD  | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
