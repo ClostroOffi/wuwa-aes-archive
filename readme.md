@@ -388,37 +388,37 @@ ___
 
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
-|   Main   | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
 | pakchunk-26 | TBD | Windows | OS |
 | pakchunk-27 | TBD | Windows | OS |
 | pakchunk-28 | TBD  | Windows | OS |
 | pakchunk-29 | TBD  | Windows | OS |
 | pakchunk-30 | TBD  | Windows | OS |
-|   Main   | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
 | pakchunk-26 | TBD | Android | OS |
 | pakchunk-27 | TBD | Android | OS |
 | pakchunk-28 | TBD  | Android | OS |
 | pakchunk-29 | TBD  | Android | OS |
 | pakchunk-30 | TBD  | Android | OS |
-|   Main   | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
 | pakchunk-26 | TBD | iOS & iPad OS | OS |
 | pakchunk-27 | TBD | iOS & iPad OS | OS |
 | pakchunk-28 | TBD  | iOS & iPad OS | OS |
 | pakchunk-29 | TBD  | iOS & iPad OS | OS |
 | pakchunk-30 | TBD  | iOS & iPad OS | OS |
-|   Main   | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
 | pakchunk-26 | TBD | Windows | CN |
 | pakchunk-27 | TBD | Windows | CN |
 | pakchunk-28 | TBD  | Windows | CN |
 | pakchunk-29 | TBD  | Windows | CN |
 | pakchunk-30 | TBD  | Windows | CN |
-|   Main   | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
 | pakchunk-26 | TBD | Android | CN |
 | pakchunk-27 | TBD | Android | CN |
 | pakchunk-28 | TBD  | Android | CN |
 | pakchunk-29 | TBD  | Android | CN |
 | pakchunk-30 | TBD  | Android | CN |
-|   Main   | TBD | iOS & iPad OS | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
 | pakchunk-26 | TBD | iOS & iPad OS | CN |
 | pakchunk-27 | TBD | iOS & iPad OS | CN |
 | pakchunk-28 | TBD  | iOS & iPad OS | CN |
