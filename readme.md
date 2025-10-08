@@ -425,6 +425,29 @@ ___
 | pakchunk-101 | TBD  | iOS & iPad OS | CN |
 | pakchunk-102 | TBD  | iOS & iPad OS | CN |
 
+## 2.7 (DAWN BREAKS ON DARK TIDES)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-103 | TBD  | Windows | OS |
+| pakchunk-104 | TBD  | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-103 | TBD  | Android | OS |
+| pakchunk-104 | TBD  | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-103 | TBD  | iOS & iPad OS | OS |
+| pakchunk-104 | TBD  | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-103 | TBD  | Windows | CN |
+| pakchunk-104 | TBD  | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-103 | TBD  | Android | CN |
+| pakchunk-104 | TBD  | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-103 | TBD  | iOS & iPad OS | CN |
+| pakchunk-104 | TBD  | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
