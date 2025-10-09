@@ -430,7 +430,7 @@ ___
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
-| pakchunk-103 | TBD  | Windows | OS |
+| pakchunk-103 | 0xCDD20E70E6A6114C0F67E2F08B6851CA9F84AC9B940C48191B834B1ABC8729F6  | Windows | OS |
 | pakchunk-104 | TBD  | Windows | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
 | pakchunk-103 | TBD  | Android | OS |
@@ -439,7 +439,7 @@ ___
 | pakchunk-103 | TBD  | iOS & iPad OS | OS |
 | pakchunk-104 | TBD  | iOS & iPad OS | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
-| pakchunk-103 | TBD  | Windows | CN |
+| pakchunk-103 | 0xAF3E34A7F1F51EFA77E837849DF9042653129774DD8892638E75CAD51CAF88F2  | Windows | CN |
 | pakchunk-104 | TBD  | Windows | CN |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
 | pakchunk-103 | TBD  | Android | CN |
