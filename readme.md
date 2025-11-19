@@ -460,7 +460,7 @@ ___
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
-| pakchunk-105 | 0xCDD20E70E6A6114C0F67E2F08B6851CA9F84AC9B940C48191B834B1ABC8729F6  | Windows | OS |
+| pakchunk-105 | 0x42ACDCFD26F9E4391C9FBABFC32BC06BACC2BFA7CAC0E2C9EDC0B86D968CE441 | Windows | OS |
 | pakchunk-106 | TBD | Windows | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
 | pakchunk-105 | TBD | Android | OS |
