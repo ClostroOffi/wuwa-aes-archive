@@ -448,6 +448,36 @@ ___
 | pakchunk-103 | TBD  | iOS & iPad OS | CN |
 | pakchunk-104 | TBD  | iOS & iPad OS | CN |
 
+## 2.8 (UNKNOWN) (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+
+## 2.8 (TO THE CITY SET IN AMBER)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-105 | 0xCDD20E70E6A6114C0F67E2F08B6851CA9F84AC9B940C48191B834B1ABC8729F6  | Windows | OS |
+| pakchunk-106 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-105 | TBD | Android | OS |
+| pakchunk-106 | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-105 | TBD | iOS & iPad OS | OS |
+| pakchunk-106 | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-105 | 0xA1769879C54629A51F83CB2701FC1A86A8D4C34E017641499D8B3BA51D0057DA | Windows | CN |
+| pakchunk-106 | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-105 | TBD | Android | CN |
+| pakchunk-106 | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-105 | TBD | iOS & iPad OS | CN |
+| pakchunk-106 | TBD | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
