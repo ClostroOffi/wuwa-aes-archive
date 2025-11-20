@@ -431,7 +431,7 @@ ___
 |:------:|------------------------------------------------------------------------|------------------|--------|
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
 | pakchunk-103 | 0xCDD20E70E6A6114C0F67E2F08B6851CA9F84AC9B940C48191B834B1ABC8729F6  | Windows | OS |
-| pakchunk-104 | TBD  | Windows | OS |
+| pakchunk-104 | 0x9EC53CEBADA49BC8DC6475C1F0D9D15B1A1148479733D90A1C332E7D2851DC79  | Windows | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
 | pakchunk-103 | TBD  | Android | OS |
 | pakchunk-104 | TBD  | Android | OS |
@@ -440,13 +440,43 @@ ___
 | pakchunk-104 | TBD  | iOS & iPad OS | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
 | pakchunk-103 | 0xAF3E34A7F1F51EFA77E837849DF9042653129774DD8892638E75CAD51CAF88F2  | Windows | CN |
-| pakchunk-104 | TBD  | Windows | CN |
+| pakchunk-104 | 0x83105F8DD4845CB15BCAFD041B6C877F68ED720D39803821283337E6BCEF6860  | Windows | CN |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
 | pakchunk-103 | TBD  | Android | CN |
 | pakchunk-104 | TBD  | Android | CN |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
 | pakchunk-103 | TBD  | iOS & iPad OS | CN |
 | pakchunk-104 | TBD  | iOS & iPad OS | CN |
+
+## 2.8 (UNKNOWN) (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+
+## 2.8 (TO THE CITY SET IN AMBER)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-105 | 0x42ACDCFD26F9E4391C9FBABFC32BC06BACC2BFA7CAC0E2C9EDC0B86D968CE441 | Windows | OS |
+| pakchunk-106 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-105 | TBD | Android | OS |
+| pakchunk-106 | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-105 | TBD | iOS & iPad OS | OS |
+| pakchunk-106 | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-105 | 0xA1769879C54629A51F83CB2701FC1A86A8D4C34E017641499D8B3BA51D0057DA | Windows | CN |
+| pakchunk-106 | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-105 | TBD | Android | CN |
+| pakchunk-106 | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-105 | TBD | iOS & iPad OS | CN |
+| pakchunk-106 | TBD | iOS & iPad OS | CN |
 
 ___
 Special Thanks : 
