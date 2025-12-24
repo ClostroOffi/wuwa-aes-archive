@@ -478,6 +478,36 @@ ___
 | pakchunk-105 | TBD | iOS & iPad OS | CN |
 | pakchunk-106 | TBD | iOS & iPad OS | CN |
 
+## 3.0 (UNKNOWN) (Beta)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+
+## 3.0 (WE WHO SEE THE STARS)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-101 | 0xB3995D88280F8D335F8B1C8D52F1EE3E0D79E94B68C29EB1B82075D83EB0358B | Windows | OS |
+| pakchunk-102 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-101 | TBD | Android | OS |
+| pakchunk-102 | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-101 | TBD | iOS & iPad OS | OS |
+| pakchunk-102 | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-101 | 0x5600FC2F1E7655519FC8B7395FF4BA435A65C805CB648440E0B271C1B35D87DD | Windows | CN |
+| pakchunk-102 | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-101 | TBD | Android | CN |
+| pakchunk-102 | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-101 | TBD | iOS & iPad OS | CN |
+| pakchunk-102 | TBD | iOS & iPad OS | CN |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
