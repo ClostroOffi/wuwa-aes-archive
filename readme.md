@@ -508,7 +508,7 @@ ___
 | pakchunk-101 | TBD | iOS & iPad OS | CN |
 | pakchunk-102 | TBD | iOS & iPad OS | CN |
 
-## 3.0 (WE WHO SEE THE STARS)
+## 3.1 (FOR YOU WHO WALK IN SNOW)
 
 | PAK(s) | AES Key                                                                | Operating System | Server |
 |:------:|------------------------------------------------------------------------|------------------|--------|
