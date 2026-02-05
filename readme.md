@@ -508,6 +508,16 @@ ___
 | pakchunk-101 | TBD | iOS & iPad OS | CN |
 | pakchunk-102 | TBD | iOS & iPad OS | CN |
 
+## 3.1 (FOR YOU WHO WALK IN SNOW)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-101 | 0xB3995D88280F8D335F8B1C8D52F1EE3E0D79E94B68C29EB1B82075D83EB0358B | Windows | OS |
+| pakchunk-102 | 0x6D52F915F5977CD9F739E8DF83F81652764CAE3EC09F01B3454FE64948E2FE0D | Windows | OS |
+| pakchunk-103 | 0xBD52F70C64FFD85DE242D17938378E3DF1AA4565F11F0228AD86CD3BBEC3A283 | Windows | OS |
+| pakchunk-104 | TBD | Windows | OS |
+
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
