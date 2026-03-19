@@ -4,6 +4,8 @@ A collection of AES Keys for Wuthering Waves PAKs.
 
 Unreal Engine version : 4.26
 
+## IMPORTANT NOTE
+
 To decrypt the new video PAKs from the 3.2 update, you can automate the process in FModel by following these steps:
 
 Input `https://raw.githubusercontent.com/555me/wuwa-keys/refs/heads/main/vid.json` in Endpoint.
