@@ -542,6 +542,53 @@ ___
 | pakchunk-102 | TBD | iOS & iPad OS | CN |
 | pakchunk-103 | TBD | iOS & iPad OS | CN |
 | pakchunk-104 | TBD | iOS & iPad OS | CN |
+
+## 3.2 (RESOLUTION TO ILLUMINATE THE SHADOWS)
+
+| PAK(s) | AES Key                                                                | Operating System | Server |
+|:------:|------------------------------------------------------------------------|------------------|--------|
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | OS |
+| pakchunk-101 | 0xB3995D88280F8D335F8B1C8D52F1EE3E0D79E94B68C29EB1B82075D83EB0358B | Windows | OS |
+| pakchunk-102 | 0x6D52F915F5977CD9F739E8DF83F81652764CAE3EC09F01B3454FE64948E2FE0D | Windows | OS |
+| pakchunk-103 | 0xBD52F70C64FFD85DE242D17938378E3DF1AA4565F11F0228AD86CD3BBEC3A283 | Windows | OS |
+| pakchunk-104 | 0xA654DF7B1FA690398B9989D3FA3AF8CA5A3F6B2418F207EC5DB7E5B84F12A46C | Windows | OS |
+| pakchunk-105 | 0x42ACDCFD26F9E4391C9FBABFC32BC06BACC2BFA7CAC0E2C9EDC0B86D968CE441 | Windows | OS |
+| pakchunk-106 | TBD | Windows | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
+| pakchunk-101 | TBD | Android | OS |
+| pakchunk-102 | TBD | Android | OS |
+| pakchunk-103 | TBD | Android | OS |
+| pakchunk-104 | TBD | Android | OS |
+| pakchunk-105 | TBD | Android | OS |
+| pakchunk-106 | TBD | Android | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
+| pakchunk-101 | TBD | iOS & iPad OS | OS |
+| pakchunk-102 | TBD | iOS & iPad OS | OS |
+| pakchunk-103 | TBD | iOS & iPad OS | OS |
+| pakchunk-104 | TBD | iOS & iPad OS | OS |
+| pakchunk-105 | TBD | iOS & iPad OS | OS |
+| pakchunk-106 | TBD | iOS & iPad OS | OS |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
+| pakchunk-101 | 0x5600FC2F1E7655519FC8B7395FF4BA435A65C805CB648440E0B271C1B35D87DD | Windows | CN |
+| pakchunk-102 | 0xF42ACF2FAB32EB64BC187C35C9ACFAA7743A5308AA3D90D064E97B21A046E6AB | Windows | CN |
+| pakchunk-103 | 0x64DF3D914A3474F26D711956B995D71351B02A320DABC49FE63798EB058419B0 | Windows | CN |
+| pakchunk-104 | 0xEB19EB1125072C2E20A6262EE0393F2761899A6D811DFDBFC31CBB5DCE308D70 | Windows | CN |
+| pakchunk-105 | 0x6E0B5A00096929F5CF1E15F32BA79F3D366D9C6DD499725CEB9779F143EE98AE | Windows | CN |
+| pakchunk-106 | TBD | Windows | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | CN |
+| pakchunk-101 | TBD | Android | CN |
+| pakchunk-102 | TBD | Android | CN |
+| pakchunk-103 | TBD | Android | CN |
+| pakchunk-104 | TBD | Android | CN |
+| pakchunk-105 | TBD | Android | CN |
+| pakchunk-106 | TBD | Android | CN |
+|   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | CN |
+| pakchunk-101 | TBD | iOS & iPad OS | CN |
+| pakchunk-102 | TBD | iOS & iPad OS | CN |
+| pakchunk-103 | TBD | iOS & iPad OS | CN |
+| pakchunk-104 | TBD | iOS & iPad OS | CN |
+| pakchunk-105 | TBD | iOS & iPad OS | CN |
+| pakchunk-106 | TBD | iOS & iPad OS | CN |
 ___
 Special Thanks : 
 - [Hxcktivist92](https://github.com/Hxcktivist92)
@@ -554,6 +601,7 @@ Special Thanks :
 - niarniik
 - [SunsetMkt](https://github.com/SunsetMkt)
 - [supdrewin](https://github.com/supdrewin)
+- [555me](https://github.com/555me)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
