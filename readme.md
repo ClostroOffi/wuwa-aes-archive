@@ -567,18 +567,18 @@ ___
 | pakchunk-105 | 0x42ACDCFD26F9E4391C9FBABFC32BC06BACC2BFA7CAC0E2C9EDC0B86D968CE441 | Windows | OS |
 | pakchunk-106 | TBD | Windows | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Android | OS |
-| pakchunk-101 | TBD | Android | OS |
-| pakchunk-102 | TBD | Android | OS |
-| pakchunk-103 | TBD | Android | OS |
-| pakchunk-104 | TBD | Android | OS |
-| pakchunk-105 | TBD | Android | OS |
+| pakchunk-101 | 0x1A562297FCDB0B3DF1D41D6FA0679DE92D66F1BF392B7249B56AA953A5909CC8 | Android | OS |
+| pakchunk-102 | 0x2ABA90402B30871CD694D05B5681982DDB96339AE8B3446D9ABD278BDBD72C07 | Android | OS |
+| pakchunk-103 | 0x15AF5747374E343DE50A8F4A4C7AF3A24C0F3C93C1EA30248D0DA127AE6C4012 | Android | OS |
+| pakchunk-104 | 0x76E00D12530C65E99BBD3748C2BE91BA3992DAF20B599CF0734073FD1715D175 | Android | OS |
+| pakchunk-105 | 0x4147B44A3BD6C928DFAF4FEF2A2ACCD6CE70F30A517D576C6C44DFCCF0B816B4 | Android | OS |
 | pakchunk-106 | TBD | Android | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | iOS & iPad OS | OS |
-| pakchunk-101 | TBD | iOS & iPad OS | OS |
-| pakchunk-102 | TBD | iOS & iPad OS | OS |
-| pakchunk-103 | TBD | iOS & iPad OS | OS |
-| pakchunk-104 | TBD | iOS & iPad OS | OS |
-| pakchunk-105 | TBD | iOS & iPad OS | OS |
+| pakchunk-101 | 0x1A562297FCDB0B3DF1D41D6FA0679DE92D66F1BF392B7249B56AA953A5909CC8 | iOS & iPad OS | OS |
+| pakchunk-102 | 0x2ABA90402B30871CD694D05B5681982DDB96339AE8B3446D9ABD278BDBD72C07 | iOS & iPad OS | OS |
+| pakchunk-103 | 0x15AF5747374E343DE50A8F4A4C7AF3A24C0F3C93C1EA30248D0DA127AE6C4012 | iOS & iPad OS | OS |
+| pakchunk-104 | 0x76E00D12530C65E99BBD3748C2BE91BA3992DAF20B599CF0734073FD1715D175 | iOS & iPad OS | OS |
+| pakchunk-105 | 0x4147B44A3BD6C928DFAF4FEF2A2ACCD6CE70F30A517D576C6C44DFCCF0B816B4 | iOS & iPad OS | OS |
 | pakchunk-106 | TBD | iOS & iPad OS | OS |
 |   Main   | 0x6F80948821CA338739A24D4D9F778BCAC0996B2EF2A73897A789C68AFF05174E | Windows | CN |
 | pakchunk-101 | 0x5600FC2F1E7655519FC8B7395FF4BA435A65C805CB648440E0B271C1B35D87DD | Windows | CN |
@@ -605,18 +605,19 @@ ___
 To decrypt the new video PAKs added since version 3.2, please refer to the [Important Note](https://github.com/ClostroOffi/wuwa-aes-archive/#important-note) section.
 
 ___
-Special Thanks : 
+Special Thanks :
 - [Hxcktivist92](https://github.com/Hxcktivist92)
 - [Xavo95](https://github.com/xavo95)
 - [Ranny](https://github.com/Rannytheory)
 - [RealNath](https://github.com/RealNath)
 - [Hoririya](https://github.com/Hororiya)
 - [Ranny](https://github.com/Rannytheory)
-- [xeondev](https://github.com/thexeondev) 
+- [xeondev](https://github.com/thexeondev)
 - niarniik
 - [SunsetMkt](https://github.com/SunsetMkt)
 - [supdrewin](https://github.com/supdrewin)
 - [555me](https://github.com/555me)
+- [RifqiSah](https://github.com/RifqiSah)
 
 ___
 If you find an undocumented / unknown AES key or PAK: feel free to open a pull request. If you have any
